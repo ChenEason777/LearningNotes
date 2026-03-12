@@ -1,2 +1,5 @@
-# ComputerNotes
-ComputerNotes
+# 学习笔记
+## 编程语言
+## 操作系统
+## 网络基础
+## 计算机基础
